@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wImageWriterBmp/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "eslint" : "7.1.0", "wimagewriterbmp" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "eslint" : "7.1.0", "wimagewriterbmp" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
