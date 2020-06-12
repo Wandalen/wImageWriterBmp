@@ -3,8 +3,8 @@ root:
   - wImageWriterBmp.out
 consistency:
   ../.ex.will.yml: &ref_0
-    hash: a50aadd4dfacd966824afac1da8556fe
-    size: 1702
+    hash: e7d3ad2adb4677fc902db117c60f77a8
+    size: 1703
   ../.im.will.yml: &ref_1
     hash: 4bd2ad8e081461ac0a9600e6aa2abea9
     size: 4662
@@ -1423,8 +1423,8 @@ module:
           - 'build::npm'
     consistency:
       ../.ex.will.yml:
-        hash: a50aadd4dfacd966824afac1da8556fe
-        size: 1702
+        hash: e7d3ad2adb4677fc902db117c60f77a8
+        size: 1703
       ../.im.will.yml:
         hash: 4bd2ad8e081461ac0a9600e6aa2abea9
         size: 4662
