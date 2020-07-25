@@ -3,5 +3,5 @@ let _ = require( 'wimagewriterbmp' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
